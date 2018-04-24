@@ -1,4 +1,3 @@
-
 package demo;
 public class Demo implements Runnable {
 
@@ -36,15 +35,13 @@ public class Demo implements Runnable {
             } catch (InterruptedException ex) {
                System.out.println(Thread.currentThread().getName() + " was interruptet in Run()!");
                break;
-            }
-        }*/
+            }*/
+        
     
     while (canWork){
     System.out.println(Thread.currentThread().getName() + " - "+ counter);
 counter++;
 
     }
-    
- 
-
-
+}
+}
