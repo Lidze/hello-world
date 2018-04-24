@@ -1,4 +1,3 @@
-
 package javalearn;
 
 public class myThreadOne extends Thread {
@@ -18,6 +17,4 @@ public class myThreadOne extends Thread {
            
        
     }    
-    
-    
 }
