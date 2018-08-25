@@ -83,7 +83,7 @@ public class Program {
 		
 		Collections.sort(persons);
 		
-		for(String p : persons)
+		for(String p: persons)
 			System.out.println(p);
 		
 		
